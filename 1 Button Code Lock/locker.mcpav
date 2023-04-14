@@ -1,0 +1,56 @@
+[DEVICE]
+Name=ATTINY2313A
+Clock=8000000
+[MEMORY_MODEL]
+Value=-1
+[BUILD_TYPE]
+Value=0
+[BOOT_TYPE]
+Value=0
+[ACTIVE_TAB]
+Value=locker.c
+[USE_EEPROM]
+Value=1
+[USE_HEAP]
+Value=0
+[HEAP_SIZE]
+Value=2000
+[EEPROM_DEFINITION]
+Value=C:\My Works\MCU Projects\AVR Projects\1 Button Code Lock\locker_ee.ihex
+[FILES]
+Count=1
+File0=locker.c
+[BINARIES]
+Count=0
+[IMAGES]
+Count=0
+ActiveImageIndex=-1
+[OPENED_FILES]
+Count=1
+File0=locker.c
+[EEPROM]
+Count=1
+File0=locker_ee.ihex
+[ACTIVE_COMMENTS_FILES]
+Count=0
+[OTHER_FILES]
+Count=0
+[SEARCH_PATH]
+Count=4
+Path0=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\defs\
+Path1=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\uses\lte64kw\
+Path2=C:\My Works\MCU Projects\AVR Projects\1 Button Code Lock\
+Path3=C:\Users\Shahriyar\Desktop\1 Button Code Lock\
+[HEADER_PATH]
+Count=0
+[HEADERS]
+Count=0
+[PLDS]
+Count=0
+[Useses]
+Count=1
+File0=EEPROM
+[EXPANDED NODES]
+Node1=Sources
+Node2=EEPROM Files
+Count=2

@@ -1,0 +1,62 @@
+[DEVICE]
+Name=ATMEGA32
+Clock=8000000
+[MEMORY_MODEL]
+Value=0
+[BUILD_TYPE]
+Value=0
+[ACTIVE_TAB]
+Value=TC.c
+[USE_EEPROM]
+Value=0
+[EEPROM_DEFINITION]
+Value=
+[BOOT_TYPE]
+Value=0
+[USE_HEAP]
+Value=0
+[HEAP_SIZE]
+Value=2000
+[FILES]
+Count=1
+File0=TC.c
+[BINARIES]
+Count=0
+[IMAGES]
+Count=0
+ActiveImageIndex=-1
+[OPENED_FILES]
+Count=1
+File0=TC.c
+[EEPROM]
+Count=0
+[ACTIVE_COMMENTS_FILES]
+Count=0
+[OTHER_FILES]
+Count=0
+[SEARCH_PATH]
+Count=8
+Path0=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\defs\
+Path1=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\uses\lte64kw\
+Path2=C:\My Works\MCU Works\Atmel AVR\Temperature Controller\
+Path3=R:\MCU Works\Atmel AVR\Temperature Controller\
+Path4=C:\My Works\MCU Projects\AVR Projects\Temperature Controller\
+Path5=D:\MCU Projects\AVR Projects\Temperature Controller\
+Path6=C:\Program Files\Mikroelektronika\mikroC PRO for AVR\defs\
+Path7=C:\Program Files\Mikroelektronika\mikroC PRO for AVR\Uses\LTE64KW\
+[HEADER_PATH]
+Count=0
+[HEADERS]
+Count=0
+[PLDS]
+Count=0
+[Useses]
+Count=5
+File0=ADC
+File1=Lcd
+File2=Lcd_Constants
+File3=EEPROM
+File4=Sound
+[EXPANDED NODES]
+Node1=Sources
+Count=1
