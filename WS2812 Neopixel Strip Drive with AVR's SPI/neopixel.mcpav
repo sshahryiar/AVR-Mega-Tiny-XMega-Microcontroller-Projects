@@ -1,0 +1,56 @@
+[DEVICE]
+Name=ATMEGA328P
+Clock=16000000
+[MEMORY_MODEL]
+Value=0
+[BUILD_TYPE]
+Value=0
+[ACTIVE_TAB]
+Value=ws2812.c
+[USE_EEPROM]
+Value=0
+[USE_HEAP]
+Value=0
+[HEAP_SIZE]
+Value=0
+[EEPROM_DEFINITION]
+Value=
+[BOOT_TYPE]
+Value=0
+[FILES]
+Count=1
+File0=neopixel.c
+[BINARIES]
+Count=0
+[IMAGES]
+Count=0
+ActiveImageIndex=-1
+[OPENED_FILES]
+Count=3
+File0=neopixel.c
+File1=ws2812.c
+File2=WS2812.h
+[EEPROM]
+Count=0
+[ACTIVE_COMMENTS_FILES]
+Count=0
+[OTHER_FILES]
+Count=0
+[SEARCH_PATH]
+Count=4
+Path0=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Defs\
+Path1=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\LTE64KW\
+Path2=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\
+Path3=C:\Users\sshah\Desktop\WS2812 Neopixel Strip Drive with AVR's SPI\
+[HEADER_PATH]
+Count=0
+[HEADERS]
+Count=0
+[PLDS]
+Count=0
+[Useses]
+Count=1
+File0=SPI
+[EXPANDED_NODES]
+Node0=Sources
+Count=1

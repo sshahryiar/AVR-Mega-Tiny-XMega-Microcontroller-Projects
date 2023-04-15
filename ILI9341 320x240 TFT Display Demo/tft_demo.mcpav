@@ -1,0 +1,60 @@
+[DEVICE]
+Name=ATMEGA2560
+Clock=16000000
+[MEMORY_MODEL]
+Value=0
+[BUILD_TYPE]
+Value=0
+[ACTIVE_TAB]
+Value=tft_demo.c
+[USE_EEPROM]
+Value=0
+[USE_HEAP]
+Value=0
+[HEAP_SIZE]
+Value=0
+[EEPROM_DEFINITION]
+Value=
+[BOOT_TYPE]
+Value=0
+[FILES]
+Count=1
+File0=tft_demo.c
+[BINARIES]
+Count=0
+[IMAGES]
+Count=0
+ActiveImageIndex=-1
+[OPENED_FILES]
+Count=7
+File0=tft_demo.c
+File1=font.c
+File2=bmp.c
+File3=ILI9341.c
+File4=ILI9341.h
+File5=XPT2046.c
+File6=XPT2046.h
+[EEPROM]
+Count=0
+[ACTIVE_COMMENTS_FILES]
+Count=0
+[OTHER_FILES]
+Count=0
+[SEARCH_PATH]
+Count=5
+Path0=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Defs\
+Path1=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\
+Path2=C:\Users\SShahryiar\Desktop\ILI9341 320x240 TFT Display Demo\
+Path4=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\GT64KW\
+[HEADER_PATH]
+Count=2
+Path1=C:\Users\SShahryiar\Desktop\ILI9341 320x240 TFT Display Demo\
+[HEADERS]
+Count=0
+[PLDS]
+Count=0
+[Useses]
+Count=0
+[EXPANDED_NODES]
+Node0=Sources
+Count=1

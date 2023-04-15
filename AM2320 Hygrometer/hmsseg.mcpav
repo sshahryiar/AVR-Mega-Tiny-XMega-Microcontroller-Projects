@@ -1,0 +1,57 @@
+[DEVICE]
+Name=ATMEGA328P
+Clock=16000000
+[MEMORY_MODEL]
+Value=0
+[BUILD_TYPE]
+Value=0
+[ACTIVE_TAB]
+Value=hmsseg.c
+[USE_EEPROM]
+Value=0
+[USE_HEAP]
+Value=0
+[HEAP_SIZE]
+Value=0
+[EEPROM_DEFINITION]
+Value=
+[BOOT_TYPE]
+Value=0
+[FILES]
+Count=1
+File0=hmsseg.c
+[BINARIES]
+Count=0
+[IMAGES]
+Count=0
+ActiveImageIndex=-1
+[OPENED_FILES]
+Count=3
+File0=hmsseg.c
+File1=AM2320.c
+File2=AM2320.h
+[EEPROM]
+Count=0
+[ACTIVE_COMMENTS_FILES]
+Count=0
+[OTHER_FILES]
+Count=0
+[SEARCH_PATH]
+Count=4
+Path0=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Defs\
+Path1=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\
+Path2=C:\Users\sshah\Desktop\Dual Seven Segment + Quad LED + Quad Button Module (New)\Hygrometer\
+Path3=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\LTE64KW\
+[HEADER_PATH]
+Count=1
+Path0=C:\Users\sshah\Desktop\Dual Seven Segment + Quad LED + Quad Button Module (New)\Hygrometer\
+[HEADERS]
+Count=0
+[PLDS]
+Count=0
+[Useses]
+Count=1
+File0=Software_I2C
+[EXPANDED_NODES]
+Node0=Sources
+Count=1
