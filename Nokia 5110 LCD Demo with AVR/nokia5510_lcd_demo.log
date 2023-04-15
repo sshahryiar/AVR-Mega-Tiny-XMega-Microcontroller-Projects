@@ -1,0 +1,17 @@
+0	1	mikrocAVR.exe -MSF -DBG -pATMEGA168P -RA -LHF -Y -DL -SSA -O11111114 -fo8 -N"C:\Users\Shawon & Nipa\Desktop\Nokia 5110 LCD Demo with AVR\nokia5510_lcd_demo.mcpav" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\" -SP"C:\Users\Shawon & Nipa\Desktop\Nokia 5110 LCD Demo with AVR\" -SP"C:\Users\Shawon & Nipa\Desktop\Nokia 5510 LCD Demo with AVR\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\LTE64KW\" -IP"C:\Users\Shawon & Nipa\Desktop\Nokia 5510 LCD Demo with AVR\" -IP"C:\Users\Shawon & Nipa\Desktop\Nokia 5110 LCD Demo with AVR\" "nokia5510_lcd_demo.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Shawon & Nipa\Desktop\Nokia 5510 LCD Demo with AVR'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\Shawon & Nipa\Desktop\Nokia 5510 LCD Demo with AVR'	 
+diagnostics: 0	122	Compilation Started	ATMEGA168P.c
+diagnostics: 1386	123	Compiled Successfully	ATMEGA168P.c
+diagnostics: 0	122	Compilation Started	__Lib_Delays.c
+diagnostics: 170	123	Compiled Successfully	__Lib_Delays.c
+diagnostics: 0	122	Compilation Started	font.c
+diagnostics: 139	123	Compiled Successfully	nokia5510_lcd_demo.c
+diagnostics: 0	127	All files Compiled in 296 ms	 
+hint: 0	1144	Used RX (bytes): 32 (100%)   Free RX (bytes): 0 (0%)	Used RX (bytes): 32 (100%)   Free RX (bytes): 0 (0%)
+hint: 0	1144	Static RAM (bytes): 504   Dynamic RAM (bytes): 520	Static RAM (bytes): 504   Dynamic RAM (bytes): 520
+hint: 0	1144	Used ROM (bytes): 9662 (59%)  Free ROM (bytes): 6722 (41%)	Used ROM (bytes): 9662 (59%)  Free ROM (bytes): 6722 (41%)
+diagnostics: 0	125	Project Linked Successfully	nokia5510_lcd_demo.mcpav
+diagnostics: 0	128	Linked in 94 ms	 
+diagnostics: 0	129	Project 'nokia5510_lcd_demo.mcpav' completed: 828 ms	 
+diagnostics: 0	103	Finished successfully: 11 Dec 2015, 12:38:21	nokia5510_lcd_demo.mcpav
