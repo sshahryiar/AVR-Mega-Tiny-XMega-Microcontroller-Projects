@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="mcp_adc_demo.elf">                 
+    <memory name="program">              
+      <units>bytes</units>                 
+      <length>8192</length>                 
+      <used>1558</used>                     
+      <free>6634</free>                     
+    </memory>                              
+    <memory name="data">                 
+      <units>bytes</units>                 
+      <length>512</length>                 
+      <used>6</used>                     
+      <free>506</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
