@@ -1,0 +1,16 @@
+0	1	mikrocAVR.exe -MSF -DBG -pATMEGA328P -RA -Y -DL -SSA -O11111114 -fo16 -N"C:\Users\Shawon\Desktop\ST7735S TFT LCD Demo\TFT_display_demo.mcpav" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\" -SP"C:\Users\Shawon\Desktop\ST7735S TFT LCD Demo\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\LTE64KW\" -IP"C:\Users\Shawon\Desktop\ST7735S TFT LCD Demo\" "TFT_display_demo.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+diagnostics: 0	122	Compilation Started	ATMEGA328P.c
+diagnostics: 1390	123	Compiled Successfully	ATMEGA328P.c
+diagnostics: 0	122	Compilation Started	__Lib_Delays.c
+diagnostics: 170	123	Compiled Successfully	__Lib_Delays.c
+diagnostics: 0	122	Compilation Started	font.c
+diagnostics: 109	123	Compiled Successfully	TFT_display_demo.c
+hint: 488	1164	Variable 'value' has been eliminated by optimizer	TFT_display_demo.c
+diagnostics: 0	127	All files Compiled in 500 ms	 
+hint: 0	1144	Used RX (bytes): 32 (100%)   Free RX (bytes): 0 (0%)	Used RX (bytes): 32 (100%)   Free RX (bytes): 0 (0%)
+hint: 0	1144	Static RAM (bytes): 2   Dynamic RAM (bytes): 2046	Static RAM (bytes): 2   Dynamic RAM (bytes): 2046
+hint: 0	1144	Used ROM (bytes): 9360 (29%)  Free ROM (bytes): 23408 (71%)	Used ROM (bytes): 9360 (29%)  Free ROM (bytes): 23408 (71%)
+diagnostics: 0	125	Project Linked Successfully	TFT_display_demo.mcpav
+diagnostics: 0	128	Linked in 110 ms	 
+diagnostics: 0	129	Project 'TFT_display_demo.mcpav' completed: 1125 ms	 
+diagnostics: 0	103	Finished successfully: 22 Nov 2015, 16:38:31	TFT_display_demo.mcpav
